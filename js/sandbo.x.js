@@ -5,3 +5,6 @@ var titles = document.getElementsByClassName("");
 
 // titles.forEach(function(item)){
     // console.log(item):
+
+    Const wrap =document.querySelector('#wrapper');
+    console.log(wrap)
